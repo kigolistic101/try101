@@ -1,5 +1,5 @@
 {
-    "name": "mortenson/example",
+    "name": "erdferrertee/example",
     "minimum-stability": "dev",
     "authors": [
         {
@@ -15,11 +15,11 @@
         {
             "type": "package",
             "package": {
-                "name": "desandro/masonry",
+                "name": "/kigolistic101/try101",
                 "version": "3.3.1",
                 "type": "drupal-library",
                 "dist": {
-                    "url": "https://github.com/desandro/masonry/archive/v3.3.1.zip",
+                    "url": "https://github.com/kigolistic101",
                     "type": "zip"
                 }
             }
@@ -31,7 +31,7 @@
                 "version": "3.1.8",
                 "type": "drupal-library",
                 "dist": {
-                    "url": "https://github.com/desandro/imagesloaded/archive/v3.1.8.zip",
+                    "url": "https://github.com/kigolistic101",
                     "type": "zip"
                 }
             }
